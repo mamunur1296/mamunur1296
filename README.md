@@ -1,94 +1,139 @@
-# Md. Mamunur Rushid
+<div align="center">
 
-**Software Engineer | .NET & Backend Architecture Specialist**  
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 [mamunurrushid60@gmail.com](mailto:mamunurrushid60@gmail.com) &nbsp;|&nbsp; 📱 +8801767988385
+# Hi, I'm Md. Mamunur Rushid 👋
 
+### Software Engineer focused on .NET, Scalable Backend Systems, and Linux Architecture
+
+<p align="center">
+  <em>I build high-throughput backend services, clean RESTful APIs, real-time messaging engines, and resilient enterprise applications.</em>
+</p>
+
+<!-- Social Links / Badges -->
+<p align="center">
+  <a href="mailto:mamunurrushid60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mamunurrushid60%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a Bangladesh-based **Software Engineer** with 2.7+ years of hands-on experience turning complex business workflows into clean, maintainable, and high-performance software. 
+
+My primary focus is **C#**, **ASP.NET Core (.NET 8/9)**, enterprise architectural patterns (**Clean Architecture**, **CQRS**), and building resilient real-time services. I care deeply about readable code, database query optimization, automated background workers, and deploying applications reliably on **Linux VPS** environments.
+
+**Currently, I am building and improving systems around:**
+- 🚀 **Scalable Real-Time Engines:** High-concurrency messaging and notification hubs using **SignalR**, **Redis Pub/Sub**, and **Webhooks**.
+- 🏛️ **Domain-Driven Backends:** Designing decoupled web APIs adhering to **Clean Architecture**, **SOLID**, and **CQRS (MediatR)**.
+- 🐧 **Linux-First Deployments:** Containerizing micro-services with **Docker**, deploying on **Linux (Ubuntu) VPS**, and configuring **Nginx** reverse proxies.
+- 🎓 **Continuous Learning:** Pursuing **Master of Science in Information Technology (MSIT)** at Jahangirnagar University.
+
+---
+
+### 🛠️ What I Work With
+
+#### **Backend & Architecture**
 <p>
-  <a href="https://www.linkedin.com/in/mamunur-rushid-2910821b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/mamunur1296" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/mamunurrushid60/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/Mamunur-Rushid" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%208%2F9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-00599C?style=for-the-badge&logo=blueprint&logoColor=white" />
+  <img src="https://img.shields.io/badge/CQRS%20%26%20MediatR-333333?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+#### **Real-Time, Caching & Queues**
+<p>
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Background%20Workers-4A154B?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
+
+#### **Data, Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-4353FF?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+#### **Frontend & UI (Familiar)**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 Executive Summary
+### 📌 Featured Work
 
-Dedicated **Software Engineer with 2.7+ years of hands-on experience** architecting high-throughput, maintainable RESTful APIs and distributed backend systems using **C# and .NET (9 / 10)**.
+#### 📡 **Communication-Hub**
+*Centralized Omnichannel Real-Time Notification & Messaging Hub*
+- Built an event-driven architecture to broadcast real-time in-app alerts and notifications across client applications.
+- **Tech Focus:** `ASP.NET Core (.NET 9)` · `Clean Architecture` · `CQRS (MediatR)` · `SignalR` · `Redis Pub/Sub` · `PostgreSQL` · `Docker`
 
-- 🏛️ **Architectural Focus:** Deep practitioner of **Clean / Onion Architecture**, **Domain-Driven Design (DDD)**, **CQRS (MediatR)**, and **Event-Driven Systems**.
-- ⚡ **High-Performance Data Access:** Specialized in blending **Dapper (Micro-ORM)** for latency-critical database queries with **Entity Framework Core** for complex domain mapping and migrations.
-- 🔄 **Reliability & Consistency:** Experienced in designing **Transactional Outbox Patterns**, automated background job processors (**Hangfire**), and distributed caching (**Redis**).
-- 🎓 **Education:** Pursuing **Master's in Information Technology (M.Sc. IT)** at *Jahangirnagar University*.
+#### 📋 **TaskFlow**
+*Enterprise Agile Task & Workflow Management System*
+- Engineered an Agile sprint management platform featuring real-time Kanban boards, Webhooks, and automated scheduled alerts.
+- **Tech Focus:** `.NET 8 Web API` · `SignalR` · `Webhooks` · `Background Services` · `EF Core` · `SQL Server` · `JWT`
 
----
-
-### 🛠️ Technical Arsenal
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages & Core** | `C#`, `.NET 10 / 9 / 8 / 6`, `TypeScript`, `JavaScript`, `SQL` |
-| **Backend Frameworks** | `ASP.NET Core Web API`, `ASP.NET Core MVC`, `ASP.NET Core Identity` |
-| **Data Access & ORM** | `Dapper (Micro-ORM)`, `Entity Framework Core`, `ADO.NET` |
-| **Architecture & Patterns** | `Clean / Onion Architecture`, `Domain-Driven Design (DDD)`, `CQRS (MediatR)`, `Transactional Outbox`, `Repository & Unit of Work`, `SOLID Principles` |
-| **Databases & Caching** | `PostgreSQL`, `Microsoft SQL Server`, `Redis (Distributed Caching)`, `MySQL` |
-| **Background Jobs & Real-Time**| `Hangfire`, `Background Worker Services`, `SignalR` |
-| **DevOps & Cloud** | `Docker`, `Docker Compose`, `GitHub Actions (CI/CD)`, `Git`, `Azure DevOps` |
-| **Testing & Quality** | `NUnit`, `Moq`, `FluentValidation`, `Automapper`, `Swagger / OpenAPI` |
+#### 💬 **Chat-Uapp**
+*Scalable Real-Time Team Messaging Platform*
+- Real-time direct & group communication engine with live presence indicators and message status delivery receipts.
+- **Tech Focus:** `ASP.NET Core` · `SignalR` · `Dapper` · `EF Core` · `Redis` · `SQL Server` · `React.js`
 
 ---
 
-### 🏛️ Flagship Engineering Projects
+### 💡 Engineering Principles I Follow
 
-#### 1. [Enterprise Library Management System (LibraryMS)](https://github.com/mamunur1296/LibraryMS)
-> **Enterprise-grade, distributed RESTful backend built on .NET 10 and Clean Architecture.**
-
-* **Clean Architecture & DDD:** Strict physical separation across `Domain`, `Application`, `Infrastructure`, and `HttpApi` layers, enforcing rich domain models (`Book`, `Member`, `Borrow`, `Reservation`).
-* **CQRS with MediatR Behaviors:** Complete command/query separation with cross-cutting pipeline behaviors for automated request logging, validation (`FluentValidation`), and resilient retry policies with exponential backoff.
-* **Transactional Outbox Pattern:** Utilized custom EF Core Interceptors (`AuditableEntityInterceptor`, `DomainEventToOutboxInterceptor`) ensuring database consistency and guaranteed asynchronous event delivery.
-* **Automated Background Engine:** Handled outbox message processing and recurring daily late-fine accumulation ($2.00/day) via **Hangfire**, paired with **MailKit** for transactional email alerts.
-* **Performance & Reporting:** Integrated **Redis Distributed Caching** for instant catalog reads and applied the **Strategy Pattern** for export pipelines (Excel & PDF).
-* **Tech Stack:** `.NET 10`, `ASP.NET Core Web API`, `EF Core`, `PostgreSQL`, `Redis`, `Hangfire`, `MediatR`, `Docker`, `GitHub Actions`, `NUnit`
-* 🔗 **[Explore Repository & Documentation →](https://github.com/mamunur1296/LibraryMS)**
+- **Simplicity First:** Simple and clear architecture always beats over-engineered complexity.
+- **Separation of Concerns:** Business logic should never depend on UI frameworks or external database details (Clean Architecture).
+- **Security by Default:** Zero trust on client input — strict JWT validation, RBAC, and parameterized query execution.
+- **Automate Everything:** Deployment scripts, CI/CD checks, and containerization eliminate human errors.
+- **Measure Before Optimizing:** Profile SQL queries, use Redis caching strategically, and optimize where bottlenecks exist.
 
 ---
 
-#### 2. [Dynamic Role-Based Access Control & Dapper Engine (App.Api)](https://github.com/mamunur1296/Dapper_Tamplate_Role/tree/master/App.Api)
-> **High-performance API framework featuring reflection-based action discovery and dynamic RBAC.**
-
-* **Automated Action Discovery:** Built an assembly-scanning `ActionDiscoveryService` using .NET Reflection to automatically discover controllers, actions, and auto-seed granular permissions into SQL Server at startup.
-* **3-Tier Dynamic RBAC:** Granular authorization engine governing `Menu` → `SubMenu` → `Controller Action`, secured with custom action filters (`MyAuthGuardAttribute`).
-* **Hybrid ORM Architecture:** Combined EF Core for identity management with **Dapper (Micro-ORM)** for ultra-fast, low-latency querying and bulk transaction processing.
-* **Repository & Unit of Work:** Decoupled data access logic with transaction management over raw Dapper connections.
-* **Enterprise Middlewares:** Configured custom Global Exception Handling for standard RFC-7807 responses and User Context middleware for claim injection.
-* **Tech Stack:** `ASP.NET Core Web API`, `Dapper`, `Entity Framework Core`, `SQL Server`, `Identity Core`, `JWT Bearer`, `AutoMapper`
-* 🔗 **[Explore Repository & Documentation →](https://github.com/mamunur1296/Dapper_Tamplate_Role/tree/master/App.Api)**
-
----
-
-#### 3. [English Learning Platform API](https://github.com/mamunur1296/English_Larnign_Api)
-> **Educational platform backend designed with Clean Architecture and modular user management.**
-
-* Applied Clean Architecture principles isolating business use cases with MediatR and AutoMapper.
-* Implemented token-based session management, refresh token rotation, and role authorization via ASP.NET Identity.
-* Designed responsive administrative views and client interactions using MVC, jQuery, and AJAX.
-* **Tech Stack:** `.NET Core 6 / 8`, `ASP.NET Core Web API & MVC`, `SQL Server`, `EF Core`, `JWT`, `Bootstrap`
-* 🔗 **[Explore Repository →](https://github.com/mamunur1296/English_Larnign_Api)**
-
----
-
-### 📈 Contribution Activity
+### 📊 GitHub Snapshot
 
 <div align="center">
-  <a href="https://github.com/mamunur1296">
-    <img src="https://streak-stats.demolab.com?user=mamunur1296&theme=tokyonight&hide_border=true&date_format=M%20j%5C%2C%20Y" alt="GitHub Streak Stats" width="60%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mamunur's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
 </div>
 
 ---
 
-<div align="center">
-  <p><i>Looking for collaboration on distributed systems or open-source .NET initiatives? Let's connect!</i></p>
-  <a href="https://www.linkedin.com/in/mamunur-rushid-2910821b6" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:mamunurrushid60@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" /></a>
-</div>
+### 🤝 Let's Connect
+
+If you're interested in scalable .NET backend architecture, real-time distributed systems, or Linux-based deployments, feel free to reach out!
+
+- 📧 **Email:** [mamunurrushid60@gmail.com](mailto:mamunurrushid60@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 💻 **LeetCode:** [leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+- 🏆 **Codeforces:** [codeforces.com/profile/YOUR_CODEFORCES_USERNAME](https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile Views" />
+</p>
