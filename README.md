@@ -118,10 +118,12 @@ My primary focus is **C#**, **ASP.NET Core (.NET 8/9)**, enterprise architectura
 
 ### 📊 GitHub Snapshot
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mamunur's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
-</div>
+### 📊 GitHub snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mamunur1296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Mamunur's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamunur1296&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+</p>
 
 ---
 
