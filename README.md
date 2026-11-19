@@ -116,8 +116,6 @@ My primary focus is **C#**, **ASP.NET Core (.NET 8/9)**, enterprise architectura
 
 ---
 
-### 📊 GitHub Snapshot
-
 ### 📊 GitHub snapshot
 
 <p align="center">
